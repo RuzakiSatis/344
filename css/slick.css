@@ -66,10 +66,10 @@
 @media(max-width:450px){
     .main_slide_one_items img{
         width: 230px;
-        height: 230px;
+        height: 300px;
     }
     .main_slide_one_items video{
         width: 230px;
-        height: 230px;
+        height: 300px;
     }
 }
